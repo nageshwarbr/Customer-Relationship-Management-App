@@ -1,0 +1,19 @@
+#img1{
+    width: 2%;
+    height: 2%;
+}
+body{
+    background-color: rgb(196, 233, 255);
+}
+        
+#total-orders{
+    background-color: blue;
+}
+#orders-delivered{
+    background-color: rgb(224, 17, 104);
+}
+#orders-pending{
+    background-color: rgba(0, 255, 13, 0.438);
+}
+
+    
